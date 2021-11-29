@@ -4,7 +4,6 @@
 
 (っ◔◡◔)っ ♥ Is really hard say anything about me, I know about myself, but I really can be anything, always :) ♥
 
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 - 🔭 I’m currently working on Website to my Profile 
 - 🌱 I’m currently learning Firebase and tecnicals skills to be a developer 
 - 🤔 I’m looking for help with TypeScript 
