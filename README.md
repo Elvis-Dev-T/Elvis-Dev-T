@@ -23,5 +23,4 @@ Skills: | 🆁🅴🅰🅲🆃 / 🅹🆂 / 🅷🆃🅼🅻 / 🅲🆂🆂 |
 
 ![Profile views](https://gpvc.arturio.dev/Elvis-Dev-T)  
 
-![image](https://user-images.githubusercontent.com/76688875/143889793-4da1e94a-8da1-4512-b1d5-b4684da5260f.png)
-
+ <img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183621.png?token=exp=1638198599~hmac=a782e1bc4d0e24f467fca2082e1f7bf0" alt="" height="40">
