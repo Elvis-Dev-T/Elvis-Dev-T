@@ -4,10 +4,7 @@
 
 (っ◔◡◔)っ ♥ Is really hard say anything about me, I know about myself, but I really can be anything, always :) ♥
 
- <img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183621.png?token=exp=1638198599~hmac=a782e1bc4d0e24f467fca2082e1f7bf0" alt="" height="40">
- <img src="https://cdn-icons.flaticon.com/png/512/4524/premium/4524348.png?token=exp=1638198706~hmac=1bd15653e4d3610dccf70ec89976b65b" alt="" height="40">
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="" height="40">
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="" height="40">
+Skills: <img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183621.png?token=exp=1638198599~hmac=a782e1bc4d0e24f467fca2082e1f7bf0" alt="" height="40">   <img src="https://cdn-icons.flaticon.com/png/512/4524/premium/4524348.png?token=exp=1638198706~hmac=1bd15653e4d3610dccf70ec89976b65b" alt="" height="40">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="" height="40">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="" height="40">
 
 - 🔭 I’m currently working on Website to my Profile 
 - 🌱 I’m currently learning Firebase and tecnicals skills to be a developer 
@@ -25,5 +22,3 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Elvis-Dev-T)  
 
 ![Profile views](https://gpvc.arturio.dev/Elvis-Dev-T)  
-
- <img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183621.png?token=exp=1638198599~hmac=a782e1bc4d0e24f467fca2082e1f7bf0" alt="" height="40">
