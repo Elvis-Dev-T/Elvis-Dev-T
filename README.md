@@ -10,7 +10,7 @@ Skills: <img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183621.pn
 - 🌱 I’m currently learning Firebase and tecnicals skills to be a developer 
 - 🤔 I’m looking for help with TypeScript 
 - 😄 Pronouns: Elvis 
-- ⚡ Fun fact: I am anime and chess lover! 
+- ⚡ Fun fact: I am anime, space and chess lover! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elvis-Dev-T)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ElielvisRocha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/possibilitiesdeveloper/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/eliélvisrocha)  
