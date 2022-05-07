@@ -1,7 +1,6 @@
 ### Hi there 👋, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙀𝙡𝙞é𝙡𝙫𝙞𝙨!
 #### 𝙄 𝙖𝙢 𝙨𝙩𝙖𝙧𝙩𝙞𝙣𝙜, 𝙝𝙤𝙬 𝙘𝙖𝙣 𝙄 𝙨𝙩𝙖𝙧𝙩??
-![𝙄 𝙖𝙢 𝙨𝙩𝙖𝙧𝙩𝙞𝙣𝙜, 𝙝𝙤𝙬 𝙘𝙖𝙣 𝙄 𝙨𝙩𝙖𝙧𝙩??](https://i.pinimg.com/564x/dc/b2/f7/dcb2f772998cbfa902fcedaf1b845ef0.jpg)
-
+![𝙄 𝙖𝙢 𝙨𝙩𝙖𝙧𝙩𝙞𝙣𝙜, 𝙝𝙤𝙬 𝙘𝙖𝙣 𝙄 𝙨𝙩𝙖𝙧𝙩??]
 (っ◔◡◔)っ ♥ Is really hard say anything about me, I know about myself, but I really can be anything, always :) ♥
 
 Skills: <img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183621.png?token=exp=1638198599~hmac=a782e1bc4d0e24f467fca2082e1f7bf0" alt="" height="40">   <img src="https://cdn-icons.flaticon.com/png/512/5486/premium/5486397.png?token=exp=1638198954~hmac=54e31505f8b7aee85e1962c44a569c7a" alt="" height="40">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="" height="40">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="" height="40">
